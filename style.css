@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#search {
+    margin-top: 20px;
+}
+#weather-info {
+    margin-top: 20px;
+}
+#weather-image {
+    margin-top: 20px;
+    max-width: 100%;
+    display: none; /* Initially hide the image */
+}
