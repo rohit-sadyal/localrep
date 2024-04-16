@@ -13,3 +13,7 @@ body {
     max-width: 100%;
     display: none; /* Initially hide the image */
 }
+
+h1{
+    color: blue;
+}
